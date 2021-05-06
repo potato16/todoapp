@@ -1,0 +1,10 @@
+- Why:
+    - Issue link: #4 (for example)
+    - Additional reason. 
+- Results:
+    - Short demo by using GIF or Video or Image.
+- Actual time spent: 2h
+- Checklist:
+    - [ ] Tested on Local
+    - [ ] Had Unit test
+    - [ ] Linked with Issue in title
